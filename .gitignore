@@ -191,3 +191,4 @@ Thumbs.db
 *.mp3
 # Gemini CLI
 .gemini/
+!.gemini/
